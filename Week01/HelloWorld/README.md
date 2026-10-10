@@ -60,3 +60,12 @@ input : What do we neeed ?
 Process : What do we Calculate? 
 Output: What should the program display? 
 IPO MODEL : input ==> Process ==> Output : The Skeleton of every program
+Think Before You code : No Code at this stage - Proramming statrs with analysis not opening the IDE
+#What is an Algorithm?
+How do we describe the solution steps BEFORE writing c# code?
+Algorithm : A step by step procedure to solve a problem
+###########################################################################
+What is a Visual Programming Language?(VPL)
+VPL is a programming language that uses a graphical interface to represent code - Programs are built with icons , diagrams,
+and flowcharts instead of typing every line.
+Visual Vs Textual Programming
