@@ -34,3 +34,29 @@ Link c# project and push commit
 Keep project versions on GitHub
 ##########THE Development Cycle ####### 
 From a real world problem to a saved version on GitHub
+
+#The Development Cycle
+1 Real world problem
+2 understand the problem (Analyze)
+3 identify the inputs (i)
+4 Define the process (p)
+5 Define the outputs (o)
+6 Design the solution (Design Algorithms)
+7 c# cdoe 
+8 run
+9 test
+10 debug
+11 commit to GitHub ( Save Version on GitHub)
+
+Imoprtant Note: What is programming? 
+Programming is the process of designing and writing instructions that a computer can execute to solve a problem.
+
+Program Vs Programming
+program : A Set of instructions That computer Execute
+Programming: Analyzing the problem, Designing, writing and testing those instructions
+Writing Code is only one part of programming.
+### How Does a Programmer Think? ###
+input : What do we neeed ? 
+Process : What do we Calculate? 
+Output: What should the program display? 
+IPO MODEL : input ==> Process ==> Output : The Skeleton of every program
