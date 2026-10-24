@@ -1,0 +1,15 @@
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\ArrayList_Example_1\ConsoleApp1\obj\Debug\net10.0\ConsoleA.CB28C8CC.Up2Date
