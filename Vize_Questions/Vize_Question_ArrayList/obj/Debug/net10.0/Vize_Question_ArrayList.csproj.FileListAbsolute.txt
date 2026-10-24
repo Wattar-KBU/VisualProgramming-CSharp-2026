@@ -1,0 +1,15 @@
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\bin\Debug\net10.0\Vize_Question_ArrayList.exe
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\bin\Debug\net10.0\Vize_Question_ArrayList.deps.json
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\bin\Debug\net10.0\Vize_Question_ArrayList.runtimeconfig.json
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\bin\Debug\net10.0\Vize_Question_ArrayList.dll
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\bin\Debug\net10.0\Vize_Question_ArrayList.pdb
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\obj\Debug\net10.0\Vize_Question_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\obj\Debug\net10.0\Vize_Question_ArrayList.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\obj\Debug\net10.0\Vize_Question_ArrayList.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\obj\Debug\net10.0\Vize_Question_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\obj\Debug\net10.0\Vize_Question_ArrayList.dll
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\obj\Debug\net10.0\refint\Vize_Question_ArrayList.dll
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\obj\Debug\net10.0\Vize_Question_ArrayList.pdb
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\obj\Debug\net10.0\Vize_Question_ArrayList.genruntimeconfig.cache
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\obj\Debug\net10.0\ref\Vize_Question_ArrayList.dll
+C:\Users\CASPER\Desktop\Back To study\c#\Practising_Datastructure\Vize_Question1\Vize_Question_ArrayList\obj\Debug\net10.0\Vize_Que.D30527FD.Up2Date
